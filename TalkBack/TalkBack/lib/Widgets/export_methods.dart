@@ -1,0 +1,12 @@
+export 'package:TalkBack/Widgets/post.dart';
+export 'package:TalkBack/Widgets/list_post.dart';
+export 'package:TalkBack/Widgets/heart_animation_widget.dart';
+export 'package:TalkBack/Widgets/google_fonts_style.dart';
+export 'package:TalkBack/Widgets/comments.dart';
+export 'package:TalkBack/Widgets/switch.dart';
+export 'package:TalkBack/Widgets/default_scaffold.dart';
+export 'package:TalkBack/Widgets/bottomBar.dart';
+export 'package:TalkBack/Widgets/navigation.dart';
+export 'package:TalkBack/Widgets/style_button.dart';
+export 'package:TalkBack/Widgets/style_container.dart';
+export 'package:TalkBack/Widgets/style_circularprogress.dart';

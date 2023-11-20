@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356085052057",
+    "firebase_url": "https://talkback-869eb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "talkback-869eb",
+    "storage_bucket": "talkback-869eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356085052057:android:090ef5c005f6641ed9fe08",
+        "android_client_info": {
+          "package_name": "com.talkback.diegogl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356085052057-ug6801nspcbv04ejmmfbf6vrk1v2odmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApldads56HG-exzqMVeRW3CnodPnYRBWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356085052057-ug6801nspcbv04ejmmfbf6vrk1v2odmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
